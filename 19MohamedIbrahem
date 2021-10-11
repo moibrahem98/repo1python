@@ -1,0 +1,7 @@
+mkdir lab
+cd lab
+git init
+touch 19MohamedIbrahem
+code 19MohamedIbrahem
+git add 19MohamedIbrahem
+git commit -m "Message"
